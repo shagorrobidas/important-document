@@ -11,7 +11,7 @@
 ### 4.psql -U postgres psql -d pedp_db -f (/home/mahedi-hassan-shuvo/Downloads/(input your file path))(dphe_pedp_db_2024_09_07_17_29.psql(input your data file here))
 
 
-##xampp install commant
+##xampp open server commant
 ```bash
 cd ~/Desktop
 ```
