@@ -9,6 +9,30 @@
 ### 2.create database database_name; (for create a new database)
 ### 3.drop database database_name; (for delete a data from database)
 ### 4.psql -U postgres psql -d pedp_db -f (/home/mahedi-hassan-shuvo/Downloads/(input your file path))(dphe_pedp_db_2024_09_07_17_29.psql(input your data file here))
+
+
+##xampp install commant
 ```bash
-fhdrtgfggh
+cd ~/Desktop
 ```
+```bash
+.local/
+```
+```bash
+cd local
+```
+```bash
+cd /opt/lampp/
+```
+```bash
+ls
+```
+```bash
+sudo chmod 755 manager-linux-x64.run 
+
+```
+```bash
+sudo ./manager-linux-x64.run 
+
+```
+#localhot
